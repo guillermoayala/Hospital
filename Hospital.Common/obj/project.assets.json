@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.Common\\Hospital.Common.csproj",
+      "projectUniqueName": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.Common\\Hospital.Common.csproj",
       "projectName": "Hospital.Common",
-      "projectPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.Common\\Hospital.Common.csproj",
+      "projectPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.Common\\Hospital.Common.csproj",
       "packagesPath": "C:\\Users\\Guillermo Ayala\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.Common\\obj\\",
+      "outputPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Guillermo Ayala\\AppData\\Roaming\\NuGet\\NuGet.Config",

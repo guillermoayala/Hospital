@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.BL\\Hospital.BL.csproj": {}
+    "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.BL\\Hospital.BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.BL\\Hospital.BL.csproj": {
+    "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.BL\\Hospital.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.BL\\Hospital.BL.csproj",
+        "projectUniqueName": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.BL\\Hospital.BL.csproj",
         "projectName": "Hospital.BL",
-        "projectPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.BL\\Hospital.BL.csproj",
+        "projectPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.BL\\Hospital.BL.csproj",
         "packagesPath": "C:\\Users\\Guillermo Ayala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.BL\\obj\\",
+        "outputPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guillermo Ayala\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj": {
-                "projectPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj"
+              "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj": {
+                "projectPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj"
               },
-              "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.EN\\Hospital.EN.csproj": {
-                "projectPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.EN\\Hospital.EN.csproj"
+              "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.EN\\Hospital.EN.csproj": {
+                "projectPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.EN\\Hospital.EN.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj": {
+    "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj",
         "projectName": "Hospital.DAL",
-        "projectPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj",
+        "projectPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj",
         "packagesPath": "C:\\Users\\Guillermo Ayala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guillermo Ayala\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,8 +91,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.EN\\Hospital.EN.csproj": {
-                "projectPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.EN\\Hospital.EN.csproj"
+              "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.EN\\Hospital.EN.csproj": {
+                "projectPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.EN\\Hospital.EN.csproj"
               }
             }
           }
@@ -131,14 +131,14 @@
         }
       }
     },
-    "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.EN\\Hospital.EN.csproj": {
+    "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.EN\\Hospital.EN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.EN\\Hospital.EN.csproj",
+        "projectUniqueName": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.EN\\Hospital.EN.csproj",
         "projectName": "Hospital.EN",
-        "projectPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.EN\\Hospital.EN.csproj",
+        "projectPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.EN\\Hospital.EN.csproj",
         "packagesPath": "C:\\Users\\Guillermo Ayala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Hospital\\Hospital.EN\\obj\\",
+        "outputPath": "C:\\Users\\Guillermo Ayala\\Desktop\\Repositorios\\Hospital\\Hospital.EN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guillermo Ayala\\AppData\\Roaming\\NuGet\\NuGet.Config",

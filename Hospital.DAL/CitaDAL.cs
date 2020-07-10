@@ -13,6 +13,23 @@ namespace Hospital.DAL
 {
    public class CitaDAL
     {
+
+        SqlDataReader Read;
+        DataTable tabla = new DataTable();
+        public DataTable MostrarDatos()
+        {
+            SqlCommand Com = new SqlCommand();
+        
+            Com.Connection = DbCommon.ObtenerConexionDbPrincipal();
+            Com.CommandText = "Select * from Citas";
+            Read = Com.ExecuteReader();
+            tabla.Load(Read);
+            return tabla;
+
+
+
+
+        }
         public static Retorno AgregarCita(Cita pCita)
         {
             try
