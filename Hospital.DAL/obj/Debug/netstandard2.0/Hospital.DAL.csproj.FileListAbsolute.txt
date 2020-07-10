@@ -1,0 +1,5 @@
+C:\Users\Guillermo Ayala\Desktop\Hospital\Hospital.DAL\bin\Debug\netstandard2.0\Hospital.DAL.deps.json
+C:\Users\Guillermo Ayala\Desktop\Hospital\Hospital.DAL\bin\Debug\netstandard2.0\Hospital.DAL.dll
+C:\Users\Guillermo Ayala\Desktop\Hospital\Hospital.DAL\obj\Debug\netstandard2.0\Hospital.DAL.csprojAssemblyReference.cache
+C:\Users\Guillermo Ayala\Desktop\Hospital\Hospital.DAL\obj\Debug\netstandard2.0\Hospital.DAL.AssemblyInfoInputs.cache
+C:\Users\Guillermo Ayala\Desktop\Hospital\Hospital.DAL\obj\Debug\netstandard2.0\Hospital.DAL.AssemblyInfo.cs
