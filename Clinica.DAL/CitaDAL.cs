@@ -21,7 +21,8 @@ namespace Clinica.DAL
             SqlCommand Com = new SqlCommand();
         
             Com.Connection = conexion.AbrirSQL();
-            Com.CommandText = "Select * from Cita";
+            Com.CommandText = "MostrarCitas";
+            Com.CommandType = CommandType.StoredProcedure;
             Read = Com.ExecuteReader();
             tabla.Load(Read);
             return tabla;
