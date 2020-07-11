@@ -1,0 +1,8 @@
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.DAL\bin\Debug\Clinica.DAL.dll
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.DAL\bin\Debug\Clinica.DAL.pdb
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.DAL\bin\Debug\ClinicaEN.dll
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.DAL\bin\Debug\ClinicaEN.pdb
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.DAL\obj\Debug\Clinica.DAL.csprojAssemblyReference.cache
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.DAL\obj\Debug\Clinica.DAL.csproj.CopyComplete
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.DAL\obj\Debug\Clinica.DAL.dll
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.DAL\obj\Debug\Clinica.DAL.pdb

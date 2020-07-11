@@ -1,0 +1,5 @@
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\ClinicaEN\bin\Debug\ClinicaEN.dll
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\ClinicaEN\bin\Debug\ClinicaEN.pdb
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\ClinicaEN\obj\Debug\ClinicaEN.csprojAssemblyReference.cache
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\ClinicaEN\obj\Debug\ClinicaEN.dll
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\ClinicaEN\obj\Debug\ClinicaEN.pdb

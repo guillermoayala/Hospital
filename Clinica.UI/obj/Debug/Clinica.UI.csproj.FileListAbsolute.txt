@@ -1,0 +1,14 @@
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.UI\bin\Debug\Clinica.UI.exe.config
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.UI\bin\Debug\Clinica.UI.exe
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.UI\bin\Debug\Clinica.UI.pdb
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.UI\bin\Debug\Clinica.BL.dll
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.UI\bin\Debug\Clinica.DAL.dll
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.UI\bin\Debug\Clinica.BL.pdb
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.UI\bin\Debug\Clinica.DAL.pdb
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.UI\obj\Debug\Clinica.UI.csprojAssemblyReference.cache
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.UI\obj\Debug\Clinica.UI.Form1.resources
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.UI\obj\Debug\Clinica.UI.Properties.Resources.resources
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.UI\obj\Debug\Clinica.UI.csproj.GenerateResource.cache
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.UI\obj\Debug\Clinica.UI.csproj.CopyComplete
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.UI\obj\Debug\Clinica.UI.exe
+C:\Users\Guillermo Ayala\Desktop\Repositorios\Hospital\Clinica.UI\obj\Debug\Clinica.UI.pdb
